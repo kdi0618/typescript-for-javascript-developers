@@ -1,0 +1,3 @@
+'strict';
+
+const name = 'Kodai';
