@@ -1,0 +1,6 @@
+'strict';
+
+export function kudo() {
+
+  
+}
