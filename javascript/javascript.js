@@ -1,3 +1,7 @@
 'strict';
 
-const name = 'Kodai';
+const name = 'Shoya';
+
+import kudo from './betsufile';
+
+kudo();
